@@ -5,6 +5,8 @@ repo: diyetTariflerUp # The name of this repository
 sites:
   - name: DiyetTarifler
     url: https://www.diyettarifler.net/
+  - name: En-Kubra Moda Evi
+    url: https://enkubramodaevi.com/
 
 
 status-website:
