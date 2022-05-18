@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.diyettarifler.net",
     "slug": "diyet-tarifler",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 2686,
-    "timeDay": 3882,
-    "timeWeek": 4009,
-    "timeMonth": 2650,
-    "timeYear": 2686,
+    "uptimeYear": "99.97%",
+    "time": 2706,
+    "timeDay": 3554,
+    "timeWeek": 3967,
+    "timeMonth": 2731,
+    "timeYear": 2706,
     "dailyMinutesDown": {
       "2022-04-14": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4662,
-    "timeDay": 3607,
-    "timeWeek": 3292,
-    "timeMonth": 4662,
-    "timeYear": 4662,
+    "time": 4556,
+    "timeDay": 3285,
+    "timeWeek": 3162,
+    "timeMonth": 4556,
+    "timeYear": 4556,
     "dailyMinutesDown": {}
   }
 ]
