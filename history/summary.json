@@ -4,18 +4,19 @@
     "url": "https://www.diyettarifler.net/",
     "icon": "https://favicons.githubusercontent.com/www.diyettarifler.net",
     "slug": "diyet-tarifler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2683,
-    "timeDay": 2021,
+    "timeDay": 677,
     "timeWeek": 2401,
     "timeMonth": 2997,
     "timeYear": 2683,
     "dailyMinutesDown": {
+      "2022-05-28": 1,
       "2022-04-14": 17
     }
   },
@@ -24,17 +25,19 @@
     "url": "https://enkubramodaevi.com/",
     "icon": "https://favicons.githubusercontent.com/enkubramodaevi.com",
     "slug": "en-kubra-moda-evi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3907,
-    "timeDay": 2536,
+    "timeDay": 2711,
     "timeWeek": 3268,
     "timeMonth": 3907,
     "timeYear": 3907,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-28": 0
+    }
   }
 ]
