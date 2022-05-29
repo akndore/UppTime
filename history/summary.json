@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.diyettarifler.net",
     "slug": "diyet-tarifler",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
-    "time": 2652,
-    "timeDay": 725,
-    "timeWeek": 2291,
-    "timeMonth": 2941,
-    "timeYear": 2652,
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
+    "time": 2668,
+    "timeDay": 2213,
+    "timeWeek": 2304,
+    "timeMonth": 2931,
+    "timeYear": 2668,
     "dailyMinutesDown": {
-      "2022-05-28": 8,
       "2022-04-14": 17
     }
   },
@@ -26,18 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/enkubramodaevi.com",
     "slug": "en-kubra-moda-evi",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3880,
-    "timeDay": 2928,
-    "timeWeek": 3257,
-    "timeMonth": 3880,
-    "timeYear": 3880,
-    "dailyMinutesDown": {
-      "2022-05-28": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3844,
+    "timeDay": 2994,
+    "timeWeek": 3233,
+    "timeMonth": 3844,
+    "timeYear": 3844,
+    "dailyMinutesDown": {}
   }
 ]
