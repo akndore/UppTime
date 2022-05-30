@@ -24,7 +24,7 @@
     "url": "https://enkubramodaevi.com/",
     "icon": "https://favicons.githubusercontent.com/enkubramodaevi.com",
     "slug": "en-kubra-moda-evi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 3214,
     "timeMonth": 3892,
     "timeYear": 3892,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-30": 0
+    }
   }
 ]
